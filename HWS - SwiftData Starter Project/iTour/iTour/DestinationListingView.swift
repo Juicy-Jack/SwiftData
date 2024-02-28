@@ -48,4 +48,4 @@ struct DestinationListingView: View {
 #Preview {
     DestinationListingView(sort: SortDescriptor((\Destination.name)), searchString: "")
 }
-//version 5
+//version 6
